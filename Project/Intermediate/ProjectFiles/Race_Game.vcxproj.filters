@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Race_Game.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F19856AF-B541-4876-882B-4979B0E87821}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Race_Game.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Race_GameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{747A952F-C26F-43B1-8AC4-C110E23AF32A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Race_Game">
+      <UniqueIdentifier>{C9EFF218-C96A-4326-96FA-9AF8B4432A3A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Race_Game\Race_Game.Build.cs">
+      <Filter>Source\Race_Game</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Race_Game\Race_Game.cpp">
+      <Filter>Source\Race_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Race_Game\Race_Game.h">
+      <Filter>Source\Race_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Race_Game\Race_GameGameMode.cpp">
+      <Filter>Source\Race_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Race_Game\Race_GameGameMode.h">
+      <Filter>Source\Race_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Race_Game\Race_GameHud.cpp">
+      <Filter>Source\Race_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Race_Game\Race_GameHud.h">
+      <Filter>Source\Race_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Race_Game\Race_GamePawn.cpp">
+      <Filter>Source\Race_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Race_Game\Race_GamePawn.h">
+      <Filter>Source\Race_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Race_Game\Race_GameWheelFront.cpp">
+      <Filter>Source\Race_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Race_Game\Race_GameWheelFront.h">
+      <Filter>Source\Race_Game</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Race_Game\Race_GameWheelRear.cpp">
+      <Filter>Source\Race_Game</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Race_Game\Race_GameWheelRear.h">
+      <Filter>Source\Race_Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

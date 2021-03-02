@@ -1,0 +1,2 @@
+C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h
+C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game\Race_Game.h

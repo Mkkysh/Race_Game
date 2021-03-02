@@ -1,0 +1,37 @@
+C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h
+C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game\Race_GameHud.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameHud.generated.h
+C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game\Race_GamePawn.h
+D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
+D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
+C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GamePawn.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicleMovementComponent.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\VehicleWheel.h
+D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\VehicleWheel.generated.h
+D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicleMovementComponent.generated.h
