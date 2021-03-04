@@ -66,9 +66,7 @@ ARace_GamePawn::ARace_GamePawn()
 	SpringArm->bEnableCameraRotationLag = true;
 	SpringArm->CameraRotationLagSpeed = 7.f;
 	SpringArm->bUsePawnControlRotation = true;
-	SpringArm->bInheritPitch = false;
-	SpringArm->bInheritRoll = false;
-
+	
 	// Create camera component 
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera0"));
 	Camera->SetupAttachment(SpringArm, USpringArmComponent::SocketName);

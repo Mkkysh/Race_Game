@@ -1,21 +1,21 @@
-C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game\Race_GamePawn.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Source\Race_Game\Race_GamePawn.h
 D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
 D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GamePawn.generated.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game\Race_GameWheelFront.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GamePawn.generated.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Source\Race_Game\Race_GameWheelFront.h
 D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\VehicleWheel.h
 D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\VehicleWheel.generated.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameWheelFront.generated.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game\Race_GameWheelRear.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameWheelRear.generated.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game\Race_GameHud.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameWheelFront.generated.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Source\Race_Game\Race_GameWheelRear.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameWheelRear.generated.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Source\Race_Game\Race_GameHud.h
 D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
 D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
 D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
 D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
 D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameHud.generated.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameHud.generated.h
 D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
 D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
 D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h

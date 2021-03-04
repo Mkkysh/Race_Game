@@ -1,7 +1,7 @@
-C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h
 D:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Source\Race_Game/Race_GamePawn.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Source\Race_Game/Race_GamePawn.h
 D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\WheeledVehicle.h
 D:\UE_4.26\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\WheeledVehicle.generated.h
-C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GamePawn.generated.h
+C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GamePawn.generated.h

@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define RACE_GAME_Race_GameHud_generated_h
 
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_SPARSE_DATA
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS_NO_PURE_DECLS
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_INCLASS_NO_PURE_DECLS \
+#define Project_Source_Race_Game_Race_GameHud_h_10_SPARSE_DATA
+#define Project_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS
+#define Project_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS_NO_PURE_DECLS
+#define Project_Source_Race_Game_Race_GameHud_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesARace_GameHud(); \
 	friend struct Z_Construct_UClass_ARace_GameHud_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(ARace_GameHud)
 
 
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_INCLASS \
+#define Project_Source_Race_Game_Race_GameHud_h_10_INCLASS \
 private: \
 	static void StaticRegisterNativesARace_GameHud(); \
 	friend struct Z_Construct_UClass_ARace_GameHud_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ARace_GameHud)
 
 
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_STANDARD_CONSTRUCTORS \
+#define Project_Source_Race_Game_Race_GameHud_h_10_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ARace_GameHud(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ARace_GameHud) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_ENHANCED_CONSTRUCTORS \
+#define Project_Source_Race_Game_Race_GameHud_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ARace_GameHud(ARace_GameHud&&); \
@@ -58,28 +58,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ARace_GameHud); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ARace_GameHud)
 
 
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_PRIVATE_PROPERTY_OFFSET
-#define Race_Game_Source_Race_Game_Race_GameHud_h_7_PROLOG
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_GENERATED_BODY_LEGACY \
+#define Project_Source_Race_Game_Race_GameHud_h_10_PRIVATE_PROPERTY_OFFSET
+#define Project_Source_Race_Game_Race_GameHud_h_7_PROLOG
+#define Project_Source_Race_Game_Race_GameHud_h_10_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_PRIVATE_PROPERTY_OFFSET \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_SPARSE_DATA \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_INCLASS \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_STANDARD_CONSTRUCTORS \
+	Project_Source_Race_Game_Race_GameHud_h_10_PRIVATE_PROPERTY_OFFSET \
+	Project_Source_Race_Game_Race_GameHud_h_10_SPARSE_DATA \
+	Project_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS \
+	Project_Source_Race_Game_Race_GameHud_h_10_INCLASS \
+	Project_Source_Race_Game_Race_GameHud_h_10_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Race_Game_Source_Race_Game_Race_GameHud_h_10_GENERATED_BODY \
+#define Project_Source_Race_Game_Race_GameHud_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_PRIVATE_PROPERTY_OFFSET \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_SPARSE_DATA \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_INCLASS_NO_PURE_DECLS \
-	Race_Game_Source_Race_Game_Race_GameHud_h_10_ENHANCED_CONSTRUCTORS \
+	Project_Source_Race_Game_Race_GameHud_h_10_PRIVATE_PROPERTY_OFFSET \
+	Project_Source_Race_Game_Race_GameHud_h_10_SPARSE_DATA \
+	Project_Source_Race_Game_Race_GameHud_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	Project_Source_Race_Game_Race_GameHud_h_10_INCLASS_NO_PURE_DECLS \
+	Project_Source_Race_Game_Race_GameHud_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -87,7 +87,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> RACE_GAME_API UClass* StaticClass<class ARace_GameHud>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Race_Game_Source_Race_Game_Race_GameHud_h
+#define CURRENT_FILE_ID Project_Source_Race_Game_Race_GameHud_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

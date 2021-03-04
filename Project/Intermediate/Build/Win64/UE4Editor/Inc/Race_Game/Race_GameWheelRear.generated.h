@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define RACE_GAME_Race_GameWheelRear_generated_h
 
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_SPARSE_DATA
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS_NO_PURE_DECLS
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS_NO_PURE_DECLS \
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_SPARSE_DATA
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesURace_GameWheelRear(); \
 	friend struct Z_Construct_UClass_URace_GameWheelRear_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(URace_GameWheelRear)
 
 
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS \
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesURace_GameWheelRear(); \
 	friend struct Z_Construct_UClass_URace_GameWheelRear_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(URace_GameWheelRear)
 
 
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_STANDARD_CONSTRUCTORS \
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API URace_GameWheelRear(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(URace_GameWheelRear) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_ENHANCED_CONSTRUCTORS \
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API URace_GameWheelRear(URace_GameWheelRear&&); \
@@ -58,28 +58,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URace_GameWheelRear); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(URace_GameWheelRear)
 
 
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_PRIVATE_PROPERTY_OFFSET
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_11_PROLOG
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_GENERATED_BODY_LEGACY \
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_PRIVATE_PROPERTY_OFFSET
+#define Project_Source_Race_Game_Race_GameWheelRear_h_11_PROLOG
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_PRIVATE_PROPERTY_OFFSET \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_SPARSE_DATA \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_STANDARD_CONSTRUCTORS \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_PRIVATE_PROPERTY_OFFSET \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_SPARSE_DATA \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_GENERATED_BODY \
+#define Project_Source_Race_Game_Race_GameWheelRear_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_PRIVATE_PROPERTY_OFFSET \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_SPARSE_DATA \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS_NO_PURE_DECLS \
-	Race_Game_Source_Race_Game_Race_GameWheelRear_h_14_ENHANCED_CONSTRUCTORS \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_PRIVATE_PROPERTY_OFFSET \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_SPARSE_DATA \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_INCLASS_NO_PURE_DECLS \
+	Project_Source_Race_Game_Race_GameWheelRear_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -87,7 +87,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> RACE_GAME_API UClass* StaticClass<class URace_GameWheelRear>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Race_Game_Source_Race_Game_Race_GameWheelRear_h
+#define CURRENT_FILE_ID Project_Source_Race_Game_Race_GameWheelRear_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
