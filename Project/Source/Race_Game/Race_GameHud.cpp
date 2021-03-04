@@ -14,9 +14,6 @@
 
 #define LOCTEXT_NAMESPACE "VehicleHUD"
 
-#ifndef HMD_MODULE_INCLUDED
-#define HMD_MODULE_INCLUDED 0
-#endif
 
 ARace_GameHud::ARace_GameHud()
 {
@@ -33,10 +30,7 @@ void ARace_GameHud::DrawHUD()
 	const float HUDYRatio = Canvas->SizeY / 720.f;
 
 	bool bWantHUD = true;
-#if HMD_MODULE_INCLUDED
-	bWantHUD = !GEngine->IsStereoscopic3D();
-#endif // HMD_MODULE_INCLUDED
-	// We dont want the onscreen hud when using a HMD device	
+
 	if (bWantHUD == true)
 	{
 		// Get our vehicle so we can check if we are in car. If we are we don't want onscreen HUD

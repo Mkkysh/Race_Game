@@ -16,12 +16,6 @@
 #include "Materials/Material.h"
 #include "GameFramework/Controller.h"
 
-#ifndef HMD_MODULE_INCLUDED
-#define HMD_MODULE_INCLUDED 0
-#endif
-
-
-
 
 #define LOCTEXT_NAMESPACE "VehiclePawn"
 

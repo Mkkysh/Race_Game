@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game"
-/I "C:\Users\User\Documents\Unreal Projects\Race_Game\Source"
+/I C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game
+/I C:\Users\User\Documents\GitHub\Race_Game\Project\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -271,12 +271,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\Race_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\Race_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\Race_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameHud.gen.cpp"
-/FI"C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h"
-/Fo"C:\Users\User\Documents\Unreal Projects\Race_Game\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Race_GameHud.gen.cpp.obj"
+/FI"C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\Race_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\Race_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\Race_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Inc\Race_Game\Race_GameHud.gen.cpp"
+/FI"C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Definitions.Race_Game.h"
+/Fo"C:\Users\User\Documents\GitHub\Race_Game\Project\Intermediate\Build\Win64\UE4Editor\Development\Race_Game\Race_GameHud.gen.cpp.obj"
 /TP
 /GR-
 /W4

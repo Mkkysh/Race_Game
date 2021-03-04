@@ -23,6 +23,8 @@
       <e p="Race_Game.uproject" t="Include" />
       <e p="Source" t="Include">
         <e p="Race_Game" t="Include">
+          <e p="PlayerControllerMainMenu.cpp" t="Include" />
+          <e p="PlayerControllerMainMenu.h" t="Include" />
           <e p="Race_Game.Build.cs" t="Include" />
           <e p="Race_Game.cpp" t="Include" />
           <e p="Race_Game.h" t="Include" />
