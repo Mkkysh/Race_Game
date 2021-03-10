@@ -3898,3 +3898,261 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.03.10-20.08.04:729][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
 [2021.03.10-20.08.04:776][642]LogPlayLevel: Display: Destroying online subsystem :Context_25
 [2021.03.10-20.08.04:803][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.03.10-20.08.33:367][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.10-20.08.33:474][769]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/VehicleExampleMap_Auto2C07A96444657EF3C3034F3BA05206DED.tmp' to 'D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/VehicleCPP/Maps/VehicleExampleMap_Auto2.umap'
+[2021.03.10-20.08.33:475][769]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleCPP/Maps/VehicleExampleMap' took 0.131
+[2021.03.10-20.08.33:475][769]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.131
+[2021.03.10-20.08.33:477][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicle/Mustang/Material_001] ([1] browsable assets)...
+[2021.03.10-20.08.33:490][769]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vehicle/Mustang/Material_001.Material_001]
+[2021.03.10-20.08.33:490][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicle/Mustang/Material_001]
+[2021.03.10-20.08.33:490][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_001" FILE="D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_001_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.10-20.08.33:497][769]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_001_Auto26ACADA2B4FBA361830EFF2B07E984A63.tmp' to 'D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_001_Auto2.uasset'
+[2021.03.10-20.08.33:504][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicle/Mustang/Material_011] ([1] browsable assets)...
+[2021.03.10-20.08.33:519][769]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vehicle/Mustang/Material_011.Material_011]
+[2021.03.10-20.08.33:519][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicle/Mustang/Material_011]
+[2021.03.10-20.08.33:519][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_011" FILE="D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_011_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.10-20.08.33:528][769]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_011_Auto232DB155B4C775B56FE721D86FD71ED41.tmp' to 'D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_011_Auto2.uasset'
+[2021.03.10-20.08.33:529][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicle/Mustang/Material_012] ([1] browsable assets)...
+[2021.03.10-20.08.33:543][769]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vehicle/Mustang/Material_012.Material_012]
+[2021.03.10-20.08.33:543][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicle/Mustang/Material_012]
+[2021.03.10-20.08.33:544][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_012" FILE="D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_012_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.10-20.08.33:551][769]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_012_Auto2BB3A1C27454EBB9953A194A71B4B9C4D.tmp' to 'D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_012_Auto2.uasset'
+[2021.03.10-20.08.33:551][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicle/Mustang/Material_014] ([1] browsable assets)...
+[2021.03.10-20.08.33:565][769]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vehicle/Mustang/Material_014.Material_014]
+[2021.03.10-20.08.33:565][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicle/Mustang/Material_014]
+[2021.03.10-20.08.33:565][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_014" FILE="D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_014_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.10-20.08.33:582][769]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_014_Auto23DAABE444D362F2E78325BBD124B087E.tmp' to 'D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_014_Auto2.uasset'
+[2021.03.10-20.08.33:583][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicle/Mustang/Material_017] ([1] browsable assets)...
+[2021.03.10-20.08.33:595][769]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vehicle/Mustang/Material_017.Material_017]
+[2021.03.10-20.08.33:595][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicle/Mustang/Material_017]
+[2021.03.10-20.08.33:595][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_017" FILE="D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_017_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.10-20.08.33:602][769]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_017_Auto2547ADBC442480EEBDF5328A200637CFD.tmp' to 'D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_017_Auto2.uasset'
+[2021.03.10-20.08.33:602][769]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicle/Mustang/Material_018] ([1] browsable assets)...
+[2021.03.10-20.08.33:617][769]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vehicle/Mustang/Material_018.Material_018]
+[2021.03.10-20.08.33:617][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicle/Mustang/Material_018]
+[2021.03.10-20.08.33:617][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_018" FILE="D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_018_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.03.10-20.08.33:626][769]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_018_Auto2C05058984933F0D9DD50C09EA6E0B472.tmp' to 'D:/UEProjects/Race_Game/Project/Saved/Autosaves/Game/Vehicle/Mustang/Material_018_Auto2.uasset'
+[2021.03.10-20.08.33:626][769]LogFileHelpers: Auto-saving content packages took 0.151
+[2021.03.10-20.08.43:734][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.10-20.08.45:027][800]LogSlate: Window 'Save Content' being destroyed
+[2021.03.10-20.08.45:062][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_001" FILE="D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_001.uasset" SILENT=true
+[2021.03.10-20.08.45:064][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_001CCBD20B14E5CD9B4D67F2CA0EDB6CD97.tmp' to 'D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_001.uasset'
+[2021.03.10-20.08.45:065][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_011" FILE="D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_011.uasset" SILENT=true
+[2021.03.10-20.08.45:066][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_01153BA99C949599CD0A518248F80570948.tmp' to 'D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_011.uasset'
+[2021.03.10-20.08.45:066][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_012" FILE="D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_012.uasset" SILENT=true
+[2021.03.10-20.08.45:068][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_0125265072045530E15BFCCDC93788494B4.tmp' to 'D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_012.uasset'
+[2021.03.10-20.08.45:068][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_014" FILE="D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_014.uasset" SILENT=true
+[2021.03.10-20.08.45:081][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_0144084ED4E42AF8A961E7AEEB4974D057D.tmp' to 'D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_014.uasset'
+[2021.03.10-20.08.45:082][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_017" FILE="D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_017.uasset" SILENT=true
+[2021.03.10-20.08.45:084][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_0179996C18243325C729079AD85A5DC2E94.tmp' to 'D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_017.uasset'
+[2021.03.10-20.08.45:084][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_018" FILE="D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_018.uasset" SILENT=true
+[2021.03.10-20.08.45:086][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_0186144A2794F17AE5D2CDD32AB826AF55C.tmp' to 'D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_018.uasset'
+[2021.03.10-20.08.45:086][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Mustang/Material_025" FILE="D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_025.uasset" SILENT=true
+[2021.03.10-20.08.45:089][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/Material_02561FE1B6C442374C337F2D09BDC1BBFEB.tmp' to 'D:/UEProjects/Race_Game/Project/Content/Vehicle/Mustang/Material_025.uasset'
+[2021.03.10-20.08.45:090][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleCPP/Maps/VehicleExampleMap" FILE="D:/UEProjects/Race_Game/Project/Content/VehicleCPP/Maps/VehicleExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.10-20.08.45:134][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.10-20.08.45:245][800]LogSavePackage: Moving 'D:/UEProjects/Race_Game/Project/Saved/VehicleExampleMap60E7EB554A45A04789C0D5B92F23EEE1.tmp' to 'D:/UEProjects/Race_Game/Project/Content/VehicleCPP/Maps/VehicleExampleMap.umap'
+[2021.03.10-20.08.45:256][800]LogFileHelpers: Saving map 'VehicleExampleMap' took 0.167
+[2021.03.10-20.08.45:311][800]LogSlate: Window 'Race_Game - Unreal Editor' being destroyed
+[2021.03.10-20.08.45:324][800]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.10-20.08.46:549][800]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating Material /Game/Vehicle/Mustang/Material_001.Material_001
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating Material /Game/Vehicle/Mustang/Material_011.Material_011
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating Material /Game/Vehicle/Mustang/Material_012.Material_012
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating Material /Game/Vehicle/Mustang/Material_014.Material_014
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating Material /Game/Vehicle/Mustang/Material_017.Material_017
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating Material /Game/Vehicle/Mustang/Material_018.Material_018
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating Material /Game/Vehicle/Mustang/Material_025.Material_025
+[2021.03.10-20.08.46:549][800]LogContentValidation: Display: Validating World /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.03.10-20.08.46:554][801]Cmd: QUIT_EDITOR
+[2021.03.10-20.08.46:554][801]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.03.10-20.08.46:567][801]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.10-20.08.46:582][801]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.03.10-20.08.46:582][801]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.03.10-20.08.46:582][801]LogAudio: Display: Audio Device unregistered from world 'VehicleExampleMap'.
+[2021.03.10-20.08.46:582][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.10-20.08.46:583][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.10-20.08.46:626][801]LogAudio: Display: Audio Device Manager Shutdown
+[2021.03.10-20.08.46:768][801]LogExit: Preparing to exit.
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702B03BD00] Windows
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702B03BC00] Default__DeviceProfile
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8400] WindowsNoEditor
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702B038400] WindowsServer
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFB900] WindowsClient
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702B03BA00] IOS
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8800] iPadAir
+[2021.03.10-20.08.47:453][801]LogDeviceProfile: Device profile begin destroy: [000001702B038700] iPadAir2
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9D800] IPadPro
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9D900] iPadAir3
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702B03BE00] iPadAir4
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9CA00] iPadMini2
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702B038800] iPadMini3
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9E300] iPadMini4
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702B03B600] iPadMini5
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFA600] iPhone6
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFA500] iPodTouch6
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9FB00] iPhone7
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9FC00] iPodTouch7
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFAF00] iPhone5S
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9D600] iPhone6Plus
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF9B00] iPhone6S
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9F100] iPhone6SPlus
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFAC00] iPhone7Plus
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9D700] iPhoneSE
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF9700] iPhone8
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9D100] iPhone8Plus
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFA700] iPhoneX
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9C200] iPhoneXS
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFA900] iPhoneXSMax
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9EB00] iPhoneXR
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFBD00] iPhone11
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9EF00] iPhone11Pro
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF9100] iPhone11ProMax
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9FA00] iPhoneSE2
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF9D00] iPhone12Mini
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9C500] iPhone12
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8F00] iPhone12Pro
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9CE00] iPhone12ProMax
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFA400] iPadPro105
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9C800] iPadPro129
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8D00] iPadPro97
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9DA00] iPadPro2_129
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8700] iPad5
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9E000] iPad6
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8900] iPad7
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9DD00] iPad8
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8300] iPadPro11
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9E500] iPadPro2_11
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFBF00] iPadPro3_129
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9EE00] iPadPro4_129
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF9600] AppleTV
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9F300] AppleTV4K
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFB300] TVOS
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9EA00] Mac
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF9E00] MacClient
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9F000] MacNoEditor
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8E00] MacServer
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9FF00] Linux
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFAA00] LinuxNoEditor
+[2021.03.10-20.08.47:454][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9D500] LinuxAArch64NoEditor
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF9000] LinuxClient
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9E600] LinuxAArch64Client
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8200] LinuxServer
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9FD00] LinuxAArch64Server
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AFF8600] Android
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9D200] Android_Low
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B038B00] Android_Mid
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B074600] Android_High
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B03AB00] Android_Default
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B075700] Android_Adreno4xx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B039D00] Android_Adreno5xx_Low
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B074500] Android_Adreno5xx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B038D00] Android_Adreno6xx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B075800] Android_Adreno6xx_Vulkan
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B03B700] Android_Mali_T6xx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B074D00] Android_Mali_T7xx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B03A100] Android_Mali_T8xx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B075A00] Android_Mali_G71
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B03A900] Android_Mali_G72
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B075000] Android_Mali_G72_Vulkan
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B03AE00] Android_Mali_G76
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B074900] Android_Mali_G76_Vulkan
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B039B00] Android_Mali_G77
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B074200] Android_Mali_G77_Vulkan
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B038500] Android_Vulkan_SM5
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B075900] Android_PowerVR_G6xxx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B03B500] Android_PowerVR_GT7xxx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702B075300] Android_PowerVR_GE8xxx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9C900] Android_PowerVR_GM9xxx
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFAE00] Android_PowerVR_GM9xxx_Vulkan
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9F700] Android_TegraK1
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFB500] Android_Unknown_Vulkan
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9C400] Lumin
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AFFB800] Lumin_Desktop
+[2021.03.10-20.08.47:455][801]LogDeviceProfile: Device profile begin destroy: [000001702AF9F400] HoloLens
+[2021.03.10-20.08.47:662][801]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.47:665][801]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.47:667][801]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.47:670][801]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.47:672][801]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.50:169][801]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.10-20.08.50:448][801]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.51:222][801]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.51:222][801]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.51:222][801]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.51:222][801]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.51:222][801]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.51:222][801]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.10-20.08.51:222][801]LogExit: Editor shut down
+[2021.03.10-20.08.51:374][801]LogExit: Transaction tracking system shut down
+[2021.03.10-20.09.02:082][801]LogExit: Object subsystem successfully closed.
+[2021.03.10-20.09.02:320][801]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.03.10-20.09.02:556][801]LogModuleManager: Shutting down and abandoning module PinnedCommandList (836)
+[2021.03.10-20.09.02:556][801]LogModuleManager: Shutting down and abandoning module SkeletonEditor (834)
+[2021.03.10-20.09.02:556][801]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (832)
+[2021.03.10-20.09.02:557][801]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (828)
+[2021.03.10-20.09.02:557][801]LogModuleManager: Shutting down and abandoning module Voice (826)
+[2021.03.10-20.09.02:558][801]LogModuleManager: Shutting down and abandoning module MaterialEditor (824)
+[2021.03.10-20.09.02:558][801]LogModuleManager: Shutting down and abandoning module BlueprintGraph (822)
+[2021.03.10-20.09.02:558][801]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (820)
+[2021.03.10-20.09.02:577][801]LogModuleManager: Shutting down and abandoning module SceneOutliner (816)
+[2021.03.10-20.09.02:577][801]LogModuleManager: Shutting down and abandoning module AddContentDialog (814)
+[2021.03.10-20.09.02:863][801]LogModuleManager: Shutting down and abandoning module WidgetCarousel (813)
+[2021.03.10-20.09.02:863][801]LogModuleManager: Shutting down and abandoning module EditorWidgets (810)
+[2021.03.10-20.09.02:863][801]LogModuleManager: Shutting down and abandoning module StatsViewer (808)
+[2021.03.10-20.09.02:878][801]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (806)
+[2021.03.10-20.09.02:879][801]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (804)
+[2021.03.10-20.09.02:880][801]LogModuleManager: Shutting down and abandoning module AutomationWorker (802)
+[2021.03.10-20.09.02:880][801]LogModuleManager: Shutting down and abandoning module SteamVREditor (800)
+[2021.03.10-20.09.02:880][801]LogModuleManager: Shutting down and abandoning module OculusMR (798)
+[2021.03.10-20.09.02:880][801]LogModuleManager: Shutting down and abandoning module GooglePADEditor (796)
+[2021.03.10-20.09.02:880][801]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (794)
+[2021.03.10-20.09.02:880][801]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (792)
+[2021.03.10-20.09.02:882][801]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (790)
+[2021.03.10-20.09.02:882][801]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (788)
+[2021.03.10-20.09.02:888][801]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (786)
+[2021.03.10-20.09.02:889][801]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (784)
+[2021.03.10-20.09.02:889][801]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (782)
+[2021.03.10-20.09.02:889][801]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (780)
+[2021.03.10-20.09.02:889][801]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (778)
+[2021.03.10-20.09.02:889][801]LogModuleManager: Shutting down and abandoning module WebMMedia (776)
+[2021.03.10-20.09.02:889][801]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (774)
+[2021.03.10-20.09.02:892][801]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (772)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module SequenceRecorder (771)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (768)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (766)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (764)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (762)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (760)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (758)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (756)
+[2021.03.10-20.09.02:894][801]LogModuleManager: Shutting down and abandoning module PlanarCut (754)
+[2021.03.10-20.09.02:895][801]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2021.03.10-20.09.02:895][801]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2021.03.10-20.09.02:895][801]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2021.03.10-20.09.02:895][801]LogModuleManager: Shutting down and abandoning module CharacterAI (746)
+[2021.03.10-20.09.02:895][801]LogModuleManager: Shutting down and abandoning module TextureAlignMode (744)
+[2021.03.10-20.09.02:895][801]LogModuleManager: Shutting down and abandoning module BspMode (742)
+[2021.03.10-20.09.02:896][801]LogModuleManager: Shutting down and abandoning module GeometryMode (740)
+[2021.03.10-20.09.02:896][801]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (738)
+[2021.03.10-20.09.02:901][801]LogModuleManager: Shutting down and abandoning module SmartSnapping (736)
+[2021.03.10-20.09.02:901][801]LogModuleManager: Shutting down and abandoning module SessionServices (734)
+[2021.03.10-20.09.02:901][801]LogModuleManager: Shutting down and abandoning module MeshPaint (732)
+[2021.03.10-20.09.02:903][801]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (730)
+[2021.03.10-20.09.02:904][801]LogModuleManager: Shutting down and abandoning module FoliageEdit (728)
+[2021.03.10-20.09.02:905][801]LogModuleManager: Shutting down and abandoning module LandscapeEditor (726)
+[2021.03.10-20.09.02:909][801]LogModuleManager: Shutting down and abandoning module MeshPaintMode (724)
+[2021.03.10-20.09.02:909][801]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (722)
+[2021.03.10-20.09.02:909][801]LogModuleManager: Shutting down and abandoning module ActorPickerMode (720)
+[2021.03.10-20.09.02:909][801]LogModuleManager: Shutting down and abandoning module PlacementMode (718)
+[2021.03.10-20.09.02:910][801]LogModuleManager: Shutting down and abandoning module ViewportSnapping (716)
+[2021.03.10-20.09.02:910][801]LogModuleManager: Shutting down and abandoning module ViewportInteraction (714)
+[2021.03.10-20.09.02:910][801]LogModuleManager: Shutting down and abandoning module ClothPainter (712)
+[2021.03.10-20.09.02:911][801]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (711)
+[2021.03.10-20.09.02:911][801]LogModuleManager: Shutting down and abandoning module LogVisualizer (708)
+[2021.03.10-20.09.02:921][801]LogModuleManager: Shutting down and abandoning module IntroTutorials (706)
+[2021.03.10-20.09.02:922][801]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (705)
+[2021.03.10-20.09.02:924][801]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (702)
+[2021.03.10-20.09.02:924][801]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (700)
+[2021.03.10-20.09.02:964][801]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (698)
+[2021.03.10-20.09.02:965][801]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (697)
