@@ -16,4 +16,5 @@
 Инструкция по запуску: Игра доступна на Windows 10 x64. 
 
 Ссылка на видео и скриншоты: [Тык](https://mfd.sk/Qpu8emfmLK-29fRuSBQv8bEB)
-Ссылка на исполняемый файл: [Тык](https://mfd.sk/ZTUSonJJkWq5r9yazji8cp9H)
+
+Ссылка на исполняемый файл: [Тык](https://mfd.sk/8mRZGdUEQiu5NEtQEknHTjc6)
